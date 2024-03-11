@@ -17,4 +17,5 @@ module.exports = {
   bracketSpacing: true,
   // 尾随逗号
   trailingComma: 'all',
+  htmlWhitespaceSensitivity: 'strict',
 };
